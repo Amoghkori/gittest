@@ -1,6 +1,4 @@
 ## This is Industry ready Git tutorial
 
-## We will learn git
-## we will finish soon
-## gejdjklbgjlksdjgfvff
-## branch developer1
+
+## branch developer2
